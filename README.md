@@ -1,4 +1,3 @@
-```markdown
 # Online Kviz - Backend
 
 ## Opis
@@ -89,6 +88,3 @@ Aplikacija će biti dostupna na `http://localhost:8000`.
 ## API Dokumentacija
 
 API dokumentacija se može naći u PDF dokumentu "ITEH dokumentacija.pdf" ili u sekciji `api.php` Laravel aplikacije.
-```
-
-Kopiraj ovaj sadržaj u svoj `README.md` fajl i trebalo bi sve da bude ispravno prikazano. Ako budeš imao bilo kakvih dodatnih pitanja ili potreba za izmenama, slobodno se javi.
